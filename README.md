@@ -1,1 +1,1 @@
-Use this tool to merge PDF files and TXT files.
+# Use this tool to merge PDF files and TXT files.
