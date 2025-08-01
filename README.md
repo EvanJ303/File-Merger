@@ -1,1 +1,1 @@
-ECHO is on.
+Use this tool to merge PDF files and TXT files.
